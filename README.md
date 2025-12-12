@@ -148,6 +148,26 @@ Analizar métricas cuantitativas mediante gráficas
 
 Evaluar desempeño bajo distintas condiciones
 
+📌 Nota importante sobre el repositorio
+
+Para simplificar el proceso y evitar subir toda la carpeta completa del proyecto en Unity, Pablo únicamente subirá al repositorio los scripts utilizados y los modelos ya entrenados (archivos .onnx) generados por ML-Agents.
+
+Estos archivos son suficientes para:
+
+Revisar la lógica del agente
+
+Analizar las recompensas
+
+Ver la configuración del controlador articular
+
+Probar el comportamiento del modelo ya entrenado dentro de Unity
+
+Si algún profesor, compañero o revisor necesita el proyecto completo de Unity, incluidas escenas, prefabs, configuraciones o builds, pueden escribirme directamente al correo:
+
+📧 mrocha@unal.edu.co
+
+Estaré atento para compartir la carpeta completa o cualquier archivo adicional que requieran.
+
 👨‍💻 Autor
 
 Manuel Fernando Rocha Zuleta, Miguel Enrique Galindo Florez
